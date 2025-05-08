@@ -19,3 +19,5 @@ The system is designed for versatility and can be applied in various scenarios, 
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/66e030e5-3533-4307-8b35-9fb0c157f4ea)
+
+![Image](https://github.com/user-attachments/assets/69dd04d2-4a09-4d31-a63c-f04b34791d62)
